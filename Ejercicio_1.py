@@ -7,5 +7,7 @@ class Edificio:
 edificios = [edificios() for i in range(3)]    
 empresa = Empresa()
 empresa.edificios = edificios
-
+for Edificio in edificios: 
+    Edificio.empresa = empresa
+  
     
