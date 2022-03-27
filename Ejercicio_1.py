@@ -1,8 +1,8 @@
 class Empresa:
   def __del__(self, edificios, empleados, nombre):
     self.edificios = []
-    self.empleados = empelados
-    self.nombre = nombre
+    self.empleados = []
+    self.nombre = []
 class Ciudad:
     def __init__(self, nombre):
         self.nombre = nombre
