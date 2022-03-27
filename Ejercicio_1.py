@@ -15,13 +15,7 @@ empresa.edificios = edificios
 for Edificio in edificios: 
     Edificio.empresa = empresa
   
-def eliminarCiudad(self, ciu): 
-        # Si la lista contiene menos de cinco elementos... 
-        if len(self.ruedas) < 5: 
-            # ... añadimos la rueda dada como argumento. 
-            self.ruedas.append(rueda) 
-            # Aprovechamos para actualizar la relación 
-            # entre la rueda y el automóvil. 
-            rueda.automovil = self 
-        else: 
-            print("El automóvil tiene ya 5 ruedas.") 
+class NuevaYork: 
+ 
+    def __del__(self): 
+        print("Nueva York ha sido destruida por el cataclismo, así como los edificios A y B") 
