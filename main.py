@@ -1,9 +1,10 @@
-from Ejercicio_1 import 
-from Ejercicio_2 import 
-from Ejercicio_3 import 
+from Ejercicio_1 import Ejercicio_1
+from Ejercicio_2 import Ejercicio_2
+from Ejercicio_3 import Ejercicio_3
 
 def main():
   while True:
+    
     
 
 yin = Yin() 
